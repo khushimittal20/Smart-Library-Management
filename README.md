@@ -70,7 +70,7 @@ This project simulates a real-world library management system where users (membe
 ## Project Structure
 ![image](https://github.com/user-attachments/assets/92c90c4a-3507-42c4-986e-2add4d7d5612)
 
-## Ouput Screenshots
+## Output Screenshots
 ![image](https://github.com/user-attachments/assets/b3bf42c5-d45e-454f-9973-2e4c0ffa61bf)
 ![image](https://github.com/user-attachments/assets/405037cc-c50c-451a-9359-ef78ca26e45c)
 ![image](https://github.com/user-attachments/assets/4795aeeb-31ce-483b-b7b2-d4cb8055b0d4)
